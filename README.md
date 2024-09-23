@@ -1,4 +1,5 @@
-Monte Carlo Method - MiniProject
-- point was to calculate the value of PI using Monte Carlo Method
-- also to examine how the changes in parameters, influence the 'path' to the result
+### Monte Carlo Method
+
+The objective was to calculate the value of PI using Monte Carlo Method
+Also to examine how the changes in parameters, influence the 'path' to the result
 
